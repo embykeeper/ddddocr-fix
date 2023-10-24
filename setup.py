@@ -13,7 +13,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="ddddocr",
+    name="ddddocrfix",
     version="1.4.8",
     author="sml2h3",
     description="带带弟弟OCR",
